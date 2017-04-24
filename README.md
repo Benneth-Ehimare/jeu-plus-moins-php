@@ -2,7 +2,7 @@
 
 * Vous devez écrire un programme en PHP pour le jeu du “Plus ou moins”
 
-Au départ, le programme va choisir au hasard un nombre “mystère” compris entre 1 et 100.(on utilisera l’instruction random(1;100)
+Au départ, le programme va choisir au hasard un nombre “mystère” compris entre 1 et 100.
 
 Ensuite, le joueur propose un nombre.
 
